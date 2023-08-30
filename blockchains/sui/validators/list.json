@@ -1,5 +1,11 @@
 [
     {
+        "id": "0xd1dbb08191b4ae8e227935669c1862ba75a41cd7df5970002eafb2f365c32ed8",
+        "name": "P-OPS Team",
+        "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
+        "website": "https://pops.one/"
+    },
+    {
         "id": "0x61953ea72709eed72f4441dd944eec49a11b4acabfc8e04015e89c63be81b6ab",
         "name": "Staketab",
         "description": "Staketab is engaged in professional validation in various blockchain networks. We develop fast and high-quality explorers and other ecosystem tools.",

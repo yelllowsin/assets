@@ -1,5 +1,11 @@
 [
     {
+        "id": "axelarvaloper1gswfh889avkccdt5adqvglel9ttjglhdl0atqr",
+        "name": "P-OPS Team",
+        "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
+        "website": "https://pops.one/"
+    },
+    {
         "id": "axelarvaloper19dx6vywgr62jtsxhhlhlgh7ug5vmgjnz6dkeud",
         "name": "StakeLab",
         "description": "Staking & Relaying Hub for Cosmos ecosystem.",
